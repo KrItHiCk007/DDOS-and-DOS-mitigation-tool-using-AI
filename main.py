@@ -268,9 +268,9 @@ def update_warning(msg):
     root.after(10000, lambda: warning_label.configure(text=""))
 
 def send_email(src_ip):
-    sender = "majorproject50809@gmail.com"
-    password = "cdtj itpo jiey tbvf"  # Add your app password here
-    receiver = "andrewskrithick50809@gmail.com"
+    sender = ""
+    password = ""  # Add your app password here
+    receiver = ""
 
     subject = "🚨 Network Attack Detected"
     body = f"""\
