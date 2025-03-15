@@ -11,13 +11,21 @@ This project implements an AI-powered network monitoring system using Flask, Sca
 
 🔹 Features
 ✅ User Authentication → Secure login system using hashlib
+
 ✅ Interface Selection → Choose network interface dynamically
+
 ✅ Real-Time Packet Capture → Uses Scapy to analyze network traffic
+
 ✅ DoS Attack Detection → AI model (RandomForestClassifier) detects threats
+
 ✅ Automated IP Blocking → Uses iptables to block suspicious IPs
+
 ✅ Email Alerts → Sends instant alerts to admins
+
 ✅ Graphical Traffic Monitoring → Uses matplotlib for real-time visualization
+
 ✅ Blocked IP List → View & manage blocked IPs
+
 ✅ Web-Based UI → Built using CustomTkinter
 
 🔹 Tech Stack Used
